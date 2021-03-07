@@ -46,7 +46,6 @@
 
 <br />
 
-Thanks for your time!
 
 --------------
 
