@@ -33,7 +33,7 @@
 
 --------------
 
-### Social :postbox:
+### :postbox: Social 
 
  Connect with me:
 
@@ -45,6 +45,8 @@
 [<img align="left" alt="hitesh sahu | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:hiteshkrsahu@gmail.com?subject=ProjectDiscussion)
 
 <br />
+
+Thanks for your time!
 
 --------------
 
