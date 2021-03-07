@@ -1,10 +1,23 @@
 ### Hi there 👋,
 
 ## I'm Hitesh Sahu ([hiteshsahu](http://hiteshsahu.com))
-- Currently, I am bulding next generation Cars at BMW Munich - Germany.
-- I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 8 years.
-- My skillset diverges into both Mobile & Web Technologies & I am fluent in both.
-- To learn more about my work & see my fun experiments please visit my [Website](http://hiteshsahu.com)
+- Currently, I am bulding next generation Cars at BMW Munich - Germany. :oncoming_automobile:
+- I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 8 years. :briefcase:
+- My skillset diverges into both Mobile & Web Technologies & I am fluent in both. :gift:
+- To learn more about my work & see my fun experiments please visit my [Website](http://hiteshsahu.com) :globe_with_meridians:
+
+
+--------------
+
+### 📈 Stackoverflow Reputation 
+<a href="https://stackoverflow.com/users/2252113/hitesh-sahu"><img src="https://stackoverflow.com/users/flair/2252113.png" width="208" height="58" alt="profile for Hitesh Sahu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hitesh Sahu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+### :bar_chart: GitHub Stats 2021
+[![Hitesh's github stats](https://github-readme-stats.vercel.app/api?username=hiteshsahu&show_icons=true&line_height=21&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsahu&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=hiteshsahu&color=blue&style=flat-square&label=visitors" align="right" />
+
 
 --------------
 
@@ -21,19 +34,10 @@
 
 <br />
 
---------------
-
-### 📈 GitHub Stats 2021
-
-[![Hitesh's github stats](https://github-readme-stats.vercel.app/api?username=hiteshsahu&show_icons=true&line_height=21&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsahu&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=hiteshsahu&color=blue&style=flat-square&label=visitors" align="right" />
-
 
 --------------
 
-### :postbox: Social 
+### :email: Social 
 
  Connect with me:
 
