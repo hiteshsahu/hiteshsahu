@@ -1,6 +1,12 @@
-### Hi there, I'm Hitesh Sahu - aka [hiteshsahu](http://hiteshsahu.com) 👋
-<br/>
-- I am bulding next generation cars at BMW Munich
+### Hi there 👋,
+
+## I'm Hitesh Sahu ([hiteshsahu](http://hiteshsahu.com))
+- Currently, I am bulding next generation Cars at BMW Munich - Germany.
+- I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 8 years.
+- My skillset diverges into both Mobile & Web Technologies & I am fluent in both.
+- To learn more about my work & see my fun experiments please visit my [Website](http://hiteshsahu.com)
+
+--------------
 
 ### Languages and Tools:
 
@@ -15,6 +21,7 @@
 
 <br />
 
+--------------
 
 ### 📈 GitHub Stats 2021
 
@@ -23,6 +30,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=hiteshsahu&color=blue&style=flat-square&label=visitors" align="right" />
 
+
+--------------
 
 ### Social :postbox:
 
@@ -37,4 +46,5 @@
 
 <br />
 
+--------------
 
