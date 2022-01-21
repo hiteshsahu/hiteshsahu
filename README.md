@@ -1,10 +1,10 @@
 ### Hi there 👋,
 
-## I'm Hitesh Sahu ([hiteshsahu](http://hiteshsahu.com))
-- Currently, I am bulding next generation Cars at BMW Munich - Germany. :oncoming_automobile:
+## I'm Hitesh Sahu ([hiteshsahu](https://hiteshsahu.com))
+- Currently, I am working in Thoughtworks Munich:)
 - I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 8 years. :briefcase:
 - My skillset diverges into both Mobile & Web Technologies & I am fluent in both. :gift:
-- To learn more about my work & see my fun experiments please visit my [Website](http://hiteshsahu.com) :globe_with_meridians:
+- To learn more about my work & see my fun experiments please visit my [Website](https://hiteshsahu.com) :globe_with_meridians:
 
 
 --------------
