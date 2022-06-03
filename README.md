@@ -1,11 +1,33 @@
 ### Hi there 👋,
 
 ## I'm Hitesh Sahu ([hiteshsahu](https://hiteshsahu.com))
-- Currently, I am working in Thoughtworks Munich:)
-- I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 8 years. :briefcase:
+
+**I am a [`Fullstack Feveloper`][1] working [@Thoughtworks Munich][2].**
+
+- I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 9 years. :briefcase:
 - My skillset diverges into both Mobile & Web Technologies & I am fluent in both. :gift:
 - To learn more about my work & see my fun experiments please visit my [Website](https://hiteshsahu.com) :globe_with_meridians:
 
+**Feel free to visit my site to explore my work & experiments.**
+
+ - Portfolio: [https://hiteshsahu.com][3]
+
+ - GitHub: [https://github.com/hiteshsahu][4]
+
+ - Codepen: [https://codepen.io/hiteshsahu][5]
+
+ - Linkedin: [www.linkedin.com/in/hiteshsahu][6]
+
+ - Twitter: [https://twitter.com/HiteshSahu_][7]
+
+
+  [1]: https://hiteshsahu.com/
+  [2]: https://www.linkedin.com/in/hitesh-sahu-99639040
+  [3]: https://hiteshsahu.com
+  [4]: https://github.com/hiteshsahu
+  [5]: https://codepen.io/hiteshsahu
+  [6]: http://www.linkedin.com/in/hiteshsahu
+  [7]: https://twitter.com/HiteshSahu_
 
 --------------
 
