@@ -6,8 +6,7 @@
 
 **I am a [`Fullstack Developer`][1] working [@Thoughtworks Munich][2].**
 
-- I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 9 years. :briefcase:
-- My skillset diverges into both Mobile & Web Technologies & I am fluent in both. :gift:
+I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 9 years. :briefcase:
 
 To learn more about my work & see my experiments/pocs plesee visit my [Website](https://hiteshsahu.com) :globe_with_meridians:
 
