@@ -2,6 +2,7 @@
 <img  alt="Visual Studio Code" width="250px" src= "https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp"/> 
 
 ## I'm Hitesh Sahu ([hiteshsahu](https://hiteshsahu.com))💫
+> 🔊 HHAYTEH-SH
 
 **I am a [`Fullstack Developer`][1] working [@Thoughtworks Munich][2].**
 
@@ -16,7 +17,7 @@ To learn more about my work & see my experiments/pocs plesee visit my [Website](
 
 [<img align="left" alt="hitesh sahu | StackOverflow" width="22px" 
    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/2252113/hitesh-sahu) 
-   **[sackoerflow/hiteshsahu][3]**
+   **[stackoerflow/hiteshsahu][3]**
 
 [<img align="left" alt="hitesh sahu | Codepen" width="22px" 
    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />](https://codepen.io/hiteshsahu/) 
