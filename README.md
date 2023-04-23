@@ -1,5 +1,5 @@
                                                                                                                     
-<img  alt="Visual Studio Code" width="250px" src= "https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp"/> 
+<img  alt="Hitesh Kumar Sahu" width="250px" src= "https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp"/> 
 
 ## I'm Hitesh Sahu ([hiteshsahu](https://hiteshsahu.com))💫
 > 🔊 HHAYTEH-SH
