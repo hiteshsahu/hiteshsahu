@@ -1,4 +1,5 @@
-### Hi there 👋,
+                                                                                                                    
+<img  alt="Visual Studio Code" width="250px" src= "https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp"/> 
 
 ## I'm Hitesh Sahu ([hiteshsahu](https://hiteshsahu.com))💫
 
@@ -6,33 +7,37 @@
 
 - I have been developing Mobile Apps, Web Apps & the intersection of them(aka. Hybrid apps) for more than 9 years. :briefcase:
 - My skillset diverges into both Mobile & Web Technologies & I am fluent in both. :gift:
-- To learn more about my work & see my fun experiments please visit my [Website](https://hiteshsahu.com) :globe_with_meridians:
 
-**Feel free to visit my site to explore my work & experiments.**
+To learn more about my work & see my experiments/pocs plesee visit my [Website](https://hiteshsahu.com) :globe_with_meridians:
 
- - Portfolio: [https://hiteshsahu.com][3]
+ [<img align="left" alt="hitesh sahu | Personal Site" width="22px" 
+   src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hiteshsahu.com/) 
+   Portfolio: **[hiteshsahu.com][1]**
 
- - GitHub: [https://github.com/hiteshsahu][4]
+[<img align="left" alt="hitesh sahu | StackOverflow" width="22px" 
+   src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/2252113/hitesh-sahu) 
+   **[sackoerflow/hiteshsahu][3]**
 
- - Codepen: [https://codepen.io/hiteshsahu][5]
+[<img align="left" alt="hitesh sahu | Codepen" width="22px" 
+   src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />](https://codepen.io/hiteshsahu/) 
+   **[codepen.io/hiteshsahu][4]**
 
- - Linkedin: [www.linkedin.com/in/hiteshsahu][6]
+[<img align="left" alt="hitesh sahu | Linkedin" width="22px" 
+   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hitesh-sahu-99639040/) 
+   **[linkedin/hiteshsahu][5]**
 
- - Twitter: [https://twitter.com/HiteshSahu_][7]
+[<img align="left" alt="hitesh sahu | Twitter" width="22px" 
+   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HiteshSahu_) 
+   **[twitter/HiteshSahu_][6]**
 
 
-  [1]: https://hiteshsahu.com/
-  [2]: https://www.linkedin.com/in/hitesh-sahu-99639040
-  [3]: https://hiteshsahu.com
-  [4]: https://github.com/hiteshsahu
-  [5]: https://codepen.io/hiteshsahu
-  [6]: http://www.linkedin.com/in/hiteshsahu
-  [7]: https://twitter.com/HiteshSahu_
-
+  
 --------------
 
 ## 📈 Stackoverflow Reputation 
-<a href="https://stackoverflow.com/users/2252113/hitesh-sahu"><img src="https://stackoverflow.com/users/flair/2252113.png" width="208" height="58" alt="profile for Hitesh Sahu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hitesh Sahu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/2252113/hitesh-sahu"><img src="https://stackoverflow.com/users/flair/2252113.png" width="208" height="58" alt="profile for Hitesh Sahu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hitesh Sahu at Stack Overflow, Q&amp; A professional and enthusiast programmer"></a>
+
+--------------
 
 ## 📊 GitHub Stats 2023
 
@@ -60,15 +65,30 @@
 --------------
 
 ## 🌐 Social 
-
 Connect with me:
-[<img align="left" alt="hitesh sahu | Personal Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hiteshsahu.com/)
-[<img align="left" alt="hitesh sahu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HiteshSahu_)
-[<img align="left" alt="hitesh sahu | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hitesh-sahu-99639040/)
-[<img align="left" alt="hitesh sahu | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/2252113/hitesh-sahu)
-[<img align="left" alt="hitesh sahu | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />](https://codepen.io/hiteshsahu/)
-[<img align="left" alt="hitesh sahu | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:hiteshkrsahu@gmail.com?subject=ProjectDiscussion)
+
+[<img align="left" alt="hitesh sahu | Mail" width="22px" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:hiteshkrsahu@gmail.com?subject=ProjectDiscussion)
+[<img align="left" alt="hitesh sahu | Personal Site" width="22px" 
+      src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hiteshsahu.com/)
+[<img align="left" alt="hitesh sahu | Twitter" width="22px" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HiteshSahu_)
+[<img align="left" alt="hitesh sahu | Linkedin" width="22px" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hitesh-sahu-99639040/)
+[<img align="left" alt="hitesh sahu | StackOverflow" width="22px" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/2252113/hitesh-sahu)
+[<img align="left" alt="hitesh sahu | Codepen" width="22px" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />](https://codepen.io/hiteshsahu/)
+
 <br />
+
+[1]: https://hiteshsahu.com/
+[2]: https://www.linkedin.com/in/hitesh-sahu-99639040
+[3]: https://stackoverflow.com/users/2252113/hitesh-sahu
+[4]: https://codepen.io/hiteshsahu/pens/public
+[5]: http://www.linkedin.com/in/hiteshsahu
+[6]: https://twitter.com/HiteshSahu_
+
 
 --------------
 
