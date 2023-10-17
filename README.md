@@ -20,7 +20,7 @@ To learn more about my work & see my experiments plese visit:
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/HiteshSahu_)
 
 
-####  Languages and Tools
+### </> Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -31,6 +31,9 @@ To learn more about my work & see my experiments plese visit:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br /><br />
+
+### [🏆 Certifications](https://www.credly.com/users/hitesh-kumar-sahu.506a3000)
+![](https://media.licdn.com/dms/image/D4E22AQEUmLad81dvuw/feedshare-shrink_2048_1536/0/1694071169676?e=1700697600&v=beta&t=qpqnWcNYThZA4nbJfVeK84JNOvm20HAnU-hQ__EE1w0)
 
 --------------
 
