@@ -14,7 +14,7 @@
 To learn more about my work & see my experiments plese visit:
 
 [<img align="left" alt="hitesh sahu | Personal Site" width="22px" 
-   src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Website: hiteshsahu.com](https://www.klaidigorishti.com)
+   src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Website: hiteshsahu.com](https://hiteshsahu.com)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/hitesh-sahu-99639040/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/HiteshSahu_)
