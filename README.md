@@ -97,12 +97,6 @@ I’ve been building **mobile, web, and hybrid applications** for over a decade 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsahu&theme=react&hide_border=false&layout=compact)
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiteshsahu/hiteshsahu/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hiteshsahu/hiteshsahu/output/github-snake.svg" />
-</picture>
-
 ---
 
 ## 📈 Stack Overflow
