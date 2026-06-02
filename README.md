@@ -15,6 +15,19 @@ I’ve been building **mobile, web, and hybrid applications** for over a decade 
 
 🧠 **Portfolio:** [hiteshsahu.com](https://hiteshsahu.com)
 
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshSahu&theme=github-dark&hide_border=true" width="100%"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshSahu&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+
 ---
 
 ## ⚙️ Tech Stack
@@ -82,6 +95,13 @@ I’ve been building **mobile, web, and hybrid applications** for over a decade 
 ![](https://github-readme-stats.vercel.app/api?username=hiteshsahu&theme=react&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hiteshsahu&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsahu&theme=react&hide_border=false&layout=compact)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiteshsahu/hiteshsahu/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hiteshsahu/hiteshsahu/output/github-snake.svg" />
+</picture>
 
 ---
 
