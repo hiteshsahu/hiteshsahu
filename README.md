@@ -16,17 +16,36 @@ I’ve been building **mobile, web, and hybrid applications** for over a decade 
 🧠 **Portfolio:** [hiteshsahu.com](https://hiteshsahu.com)
 
 
+## 🏆 Certifications
+[🎓 View all on Credly →](https://www.credly.com/users/hitesh-kumar-sahu.506a3000)
+
+![](https://media.licdn.com/dms/image/v2/D4E16AQHrvdypzj9Srg/profile-displaybackgroundimage-shrink_350_1400/B4EZ5oJepnJAAU-/0/1779863776117?e=1782345600&v=beta&t=-j68cof5HOqDpnAyCJQsEYejT4V_UD7LWFnJQv7UnpI)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hiteshsahu&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hiteshsahu&theme=react&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsahu&theme=react&hide_border=false&layout=compact)
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshSahu&theme=github-dark&hide_border=true" width="100%"/>
 </p>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshSahu&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+## 📈 Stack Overflow
+<a href="https://stackoverflow.com/users/2252113/hitesh-sahu">
+  <img src="https://stackoverflow.com/users/flair/2252113.png" width="208" height="58" alt="Hitesh Sahu StackOverflow Profile"/>
+</a>
 
+---
 
 ---
 
@@ -83,28 +102,6 @@ I’ve been building **mobile, web, and hybrid applications** for over a decade 
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 </details>
 
----
-
-## 🏆 Certifications
-[🎓 View all on Credly →](https://www.credly.com/users/hitesh-kumar-sahu.506a3000)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=hiteshsahu&theme=react&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hiteshsahu&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsahu&theme=react&hide_border=false&layout=compact)
-
-
----
-
-## 📈 Stack Overflow
-<a href="https://stackoverflow.com/users/2252113/hitesh-sahu">
-  <img src="https://stackoverflow.com/users/flair/2252113.png" width="208" height="58" alt="Hitesh Sahu StackOverflow Profile"/>
-</a>
-
----
 
 ## 🌐 Connect with Me
 
