@@ -19,7 +19,7 @@ I’ve been building **mobile, web, and hybrid applications** for over a decade 
 ## 🏆 Certifications
 [🎓 View all on Credly →](https://www.credly.com/users/hitesh-kumar-sahu.506a3000)
 
-![](https://media.licdn.com/dms/image/v2/D4E16AQHrvdypzj9Srg/profile-displaybackgroundimage-shrink_350_1400/B4EZ5oJepnJAAU-/0/1779863776117?e=1782345600&v=beta&t=-j68cof5HOqDpnAyCJQsEYejT4V_UD7LWFnJQv7UnpI)
+![](./image.png)
 
 ---
 
