@@ -21,9 +21,9 @@ I’ve been building **mobile, web, and hybrid applications** for over a decade 
 
 ![](./image.png)
 
-## AI Infrastructure Playground
+## AI Infrastructure Ecosystem
 
-A collection of open-source projects exploring the full AI stack, from model benchmarking and RAG systems to GPU clusters, observability, scheduling, and high-performance networking.
+These projects complement each other and solve a piece of the puzzle in the AI workflow from training, inference, deployment to monitoring
 
 | Project                                                                                                                           | Description                                                                                                                                                                                                               | Tech                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
