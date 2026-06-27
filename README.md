@@ -1,6 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=hiteshsahu&color=blue&style=flat-square&label=visitors" />
 
-<img alt="Hitesh Kumar Sahu" width="250px" src="https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp" />
 
 # 👋 Hi, I'm [Hitesh Sahu](https://hiteshsahu.com)
 
@@ -30,39 +29,30 @@ These projects complement each other and solve a piece of the puzzle in the AI w
 deployment to monitoring
 
 
-| Project                                                                                                                            | Description                                                                                                                                                                                                              | Tech                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| **[🏋️ Model Gym](https://github.com/hiteshsahu/Model-Gym)**<br><br><img src="/img/model-gym.jpg" width="580">                     | A fitness center for AI models. Import, export, optimize, benchmark, and report LLM inference performance across engines, runtimes, and hardware platforms.                                                              | Next.js • TypeScript • Python • PyTorch • Hugging Face            |
-| **[🦆 RAG Factory](https://github.com/hiteshsahu/RAG-Factory)**<br><br><img src="/img/rag-factory.png" width="580">                | Transforms chaotic PDFs, documents, websites, databases, and APIs into trusted answers using embeddings, retrieval, reranking, and large language models.                                                                | Python • FastAPI • LangChain • Vector Databases • OpenAI • Ollama |
-| **[🐸 NVIDIA SuperPod](https://github.com/hiteshsahu/Nvidia-Super-Pod)**<br><br><img src="/img/superpod.jpg" width="580">          | GPU Infrastructure Lab for building an AI supercomputer from commodity GPU servers. Explore multi-node training, networking, storage, scheduling, observability, and large-scale AI infrastructure.                      | Go • Kubernetes • Slurm • NVIDIA GPUs • InfiniBand • Prometheus   |
-| **[֎ GPU Lens](https://github.com/hiteshsahu/GPU-Lens)**<br><br><img src="/img/gpu-lens.jpg" width="580">                          | Drop-in GPU + scheduler observability for clusters you already have. Get instant visibility into GPU health, utilization, memory, temperatures, ECC errors, XID faults, scheduler activity, and queue health.            | Go • Prometheus • Grafana • DCGM Exporter • Kubernetes • Slurm    |
-| **[🦝🐾 Squint](https://github.com/hiteshsahu/Squint)**<br><br><img src="/img/squint.jpg" width="580">                             | A GPU-aware Slurm monitor for your terminal. Read-only, zero-config, and runs anywhere. Visualize jobs, nodes, GPUs, queue health, and pending reasons through a fast terminal UI.                                       | Go • Bubble Tea • Lip Gloss • Slurm • TUI                         |
-| **[🐪 Caravan](https://github.com/hiteshsahu/Caravan)**<br><br><img src="/img/caravan.jpg" width="580">                            | Spin up a complete local Slurm cluster with a single command. Develop, test, and submit HPC and AI workloads on Docker or Podman with GPU scheduling, making local experimentation fast and reproducible.            | Go • Slurm • Docker • Podman • Cobra • HPC                        |
+| Project                                                                                                                            | Description                                                                                                                                                                                                               | Tech                                                              |
+|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| **[🏋️ Model Gym](https://github.com/hiteshsahu/Model-Gym)**<br><br><img src="/img/model-gym.jpg" width="580">                     | A fitness center for AI models. Import, export, optimize, benchmark, and report LLM inference performance across engines, runtimes, and hardware platforms.                                                               | Next.js • TypeScript • Python • PyTorch • Hugging Face            |
+| **[🦆 RAG Factory](https://github.com/hiteshsahu/RAG-Factory)**<br><br><img src="/img/rag-factory.png" width="580">                | Transforms chaotic PDFs, documents, websites, databases, and APIs into trusted answers using embeddings, retrieval, reranking, and large language models.                                                                 | Python • FastAPI • LangChain • Vector Databases • OpenAI • Ollama |
+| **[🐸 NVIDIA SuperPod](https://github.com/hiteshsahu/Nvidia-Super-Pod)**<br><br><img src="/img/superpod.jpg" width="580">          | GPU Infrastructure Lab for building an AI supercomputer from commodity GPU servers. Explore multi-node training, networking, storage, scheduling, observability, and large-scale AI infrastructure.                       | Go • Kubernetes • Slurm • NVIDIA GPUs • InfiniBand • Prometheus   |
+| **[֎ GPU Lens](https://github.com/hiteshsahu/GPU-Lens)**<br><br><img src="/img/gpu-lens.jpg" width="580">                          | Drop-in GPU + scheduler observability for clusters you already have. Get instant visibility into GPU health, utilization, memory, temperatures, ECC errors, XID faults, scheduler activity, and queue health.             | Go • Prometheus • Grafana • DCGM Exporter • Kubernetes • Slurm    |
+| **[🦝🐾 Squint](https://github.com/hiteshsahu/Squint)**<br><br><img src="/img/squint.jpg" width="580">                             | A GPU-aware Slurm monitor for your terminal. Read-only, zero-config, and runs anywhere. Visualize jobs, nodes, GPUs, queue health, and pending reasons through a fast terminal UI.                                        | Go • Bubble Tea • Lip Gloss • Slurm • TUI                         |
+| **[🐪 Caravan](https://github.com/hiteshsahu/Caravan)**<br><br><img src="/img/caravan.jpg" width="580">                            | Spin up a complete local Slurm cluster with a single command. Develop, test, and submit HPC and AI workloads on Docker or Podman with GPU scheduling, making local experimentation fast and reproducible.                 | Go • Slurm • Docker • Podman • Cobra • HPC                        |
 | **[🛜 GPU-Fabric-Bench](https://github.com/hiteshsahu/GPU-Fabric-Bench)**<br><br><img src="/img/gpu-fabric-bench.jpg" width="580"> | Reproducible RDMA fabric benchmarking suite for NCCL GPU collective communications on AWS EFA. Maps InfiniBand concepts to cloud-native HPC networking and visualizes latency, bandwidth, topology, and scaling behavior. | NCCL • AWS EFA • RDMA • MPI • NVIDIA GPUs • Python                |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Open Source Activity
 
-![](https://github-readme-stats.vercel.app/api?username=hiteshsahu&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+| GitHub Stats | Streak |
+|:------------:|:------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=hiteshsahu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="100%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshsahu&theme=github-dark&hide_border=true" width="100%"> |
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hiteshsahu&theme=react&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsahu&theme=react&hide_border=false&layout=compact)
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshSahu&theme=github-dark&hide_border=true" width="100%"/>
 </p>
-
----
-
-## 📈 Stack Overflow
-
-<a href="https://stackoverflow.com/users/2252113/hitesh-sahu">
-  <img src="https://stackoverflow.com/users/flair/2252113.png" width="208" height="58" alt="Hitesh Sahu StackOverflow Profile"/>
-</a>
 
 ---
 
@@ -127,7 +117,11 @@ deployment to monitoring
 
 ----
 
+
+
 <p align="center">
+
+
   <a href="https://hiteshsahu.com">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"  hspace="12"/>
   </a>
